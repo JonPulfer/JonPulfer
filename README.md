@@ -6,8 +6,8 @@ I code for coin to pay for my sailing addiction...
 - Interests
   - Distributed Systems
   - Cloud systems
-  - Event driven
+  - Event based
   - Data streams
   - Cryptography
 
-I enjoy learning and exploring things new to me. I like to share my skills and experiences with colleagues as well as learning from them.
+I enjoy learning and exploring things new to me. I like to share my skills and experiences with colleagues whilst learning new things from them too.
